@@ -11,7 +11,7 @@ Project Overview
 
 ##  Sample Output
 
-<img src="generated_samples.png" width="500">
+<img width="790" height="790" alt="hw" src="https://github.com/user-attachments/assets/e02a0b8a-c958-44bb-8f5f-8fc16a382814" />
 
 
 
@@ -40,4 +40,4 @@ Project Overview
 vae-handwritten-digit-generator
  ┣ 📄 README.md
  ┣ 📄 handwritten_digit_vae.ipynb
- ┗ 📷 generated_samples.png
+ ┗ 📷 hw.png
