@@ -33,11 +33,3 @@ Project Overview
    - Train the VAE
    - Generate and visualize digits from random latent space
 
-
-## File Structure
-
-```plaintext
-vae-handwritten-digit-generator
- ┣ 📄 README.md
- ┣ 📄 handwritten_digit_vae.ipynb
- ┗ 📷 hw.png
